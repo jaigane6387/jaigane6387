@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**jaigane6387/jaigane6387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jaigane6387/jaigane6387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 Welcome to my profile. Here are some quick facts about me:
