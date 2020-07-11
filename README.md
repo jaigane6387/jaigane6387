@@ -12,4 +12,3 @@ Welcome to my profile. Here are some quick facts about me:
 - 🤔 I’m looking for help with interest in AI field
 - 💬 Ask me about Data science
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jaiganesh-nagidi-4205a4181/">jaiganesh Nagidi</a>
--->
