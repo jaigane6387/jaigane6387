@@ -6,8 +6,8 @@
 
 Welcome to my profile. Here are some quick facts about me:
 
-- 🔭 I’m currently working on recommendation systems
-- 🌱 I’m currently learning rasa and deep learning frameworks
+- 🔭 I’m currently working on chat bots
+- 🌱 I’m currently learning nlp transformers and deep learning frameworks
 - 👯 I’m looking to collaborate on Machine learning Projects
 - 🤔 I’m looking for help with interest in AI field
 - 💬 Ask me about Data science
