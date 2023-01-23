@@ -6,9 +6,9 @@
 
 Welcome to my profile. Here are some quick facts about me:
 
-- 🔭 I’m currently working on chat bots
-- 🌱 I’m currently learning nlp transformers and deep learning frameworks
+- 🔭 I’m currently working exploring the Big Data and Hadoop architectures.
+- 🌱 I’m currently learning advanced nlp transformers and Deep Learning models
 - 👯 I’m looking to collaborate on Machine learning Projects
 - 🤔 I’m looking for help with interest in AI field
 - 💬 Ask me about Data science
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/jaiganesh-nagidi-4205a4181/">jaiganesh Nagidi</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jaiganesh-nagidi">jaiganesh Nagidi</a>
