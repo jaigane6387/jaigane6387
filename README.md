@@ -7,7 +7,9 @@
 </p>
 
 
-Welcome to my GitHub profile! 👋 I'm Jai Ganesh Nagidi, a dedicated data scientist with a passion for innovation and a drive to make an impact. Currently, I'm actively seeking full-time opportunities in the United States to further explore the exciting realms of data science and generative AI.
+Welcome to my GitHub profile! 👋 
+
+I'm Jai Ganesh Nagidi, a dedicated data scientist with a passion for innovation and a drive to make an impact. Currently, I'm actively seeking full-time or internship opportunities in the United States to further explore the exciting realms of data science and generative AI.
 
 🔍 **About Me**
 
