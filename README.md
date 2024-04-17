@@ -15,8 +15,8 @@ I am fueled by curiosity and driven by a relentless pursuit of knowledge. With a
 
 💼 **Experience**
 
-### Bioinformatic Analyst | UAB, School Of Nursing
-#### Birmingham, Alabama | Jun 2023 – Apr 2024
+### Genomic AI Engineer | UAB, School Of Nursing
+#### Birmingham, Alabama | Jul 2023 – Apr 2024
 
 At UAB, I delved into the intricate world of bioinformatics, where I applied advanced statistical techniques and machine learning algorithms to unravel the mysteries of genomic data. From building epigenetic age calculation pipelines to operating Nextflow pipelines on RNAseq data, I've left no stone unturned in my quest for insights.
 
