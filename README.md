@@ -36,10 +36,14 @@ At Analytics Vidhya, I honed my skills in cutting-edge technologies like deep le
 
 I am proficient in a wide array of tools and technologies, including Python, R, Java, TensorFlow, PyTorch, and AWS. From data wrangling and exploratory data analysis to building and deploying machine learning models, I leverage the latest advancements in technology to drive actionable insights and innovation.
 
+
 📚 **Publications/ Accomplishments**
 
 I take pride in my contributions to the field of data science, including publications in esteemed journals and achievements in hackathons and competitions. From winning prestigious awards to authoring groundbreaking research papers, I am committed to pushing the boundaries of knowledge and innovation.
 
 ---
+
+## Here are some quick facts about me:
+![Jai Ganesh Nagidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaigane6387&count_private=true&show_icons=true&theme=radical)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jaiganesh-nagidi) to explore exciting opportunities in the dynamic world of data science and AI! Let's embark on a journey of innovation and discovery together. 🌟
